@@ -5,6 +5,7 @@
 void print(studentBase *base, int index)
 {
     int i;
+    int k;
     if (base != NULL)
     {
         for(i = 1; i <= index; i++)
