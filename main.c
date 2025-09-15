@@ -7,7 +7,11 @@ int main()
     int numberOfStudent;
     int i;
     studentBase B1[studentNumber];
+<<<<<<< HEAD
     printf("Enter the number of students entered:\n");
+=======
+    printf("Enter the number of students to be entered:\n");
+>>>>>>> b955caaf8b98a19930068f98e8795207145e50be
     scanf("%d", &numberOfStudent);
 
     if (numberOfStudent <= studentNumber)
