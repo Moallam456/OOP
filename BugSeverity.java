@@ -2,16 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.oop_project;
+package Enums;
 
 /**
  *
- * @author LOQ
+ * @author pc
  */
 public enum BugSeverity {
-    TRIVIAL,  
-    MINOR,    
-    MAJOR,     
-    CRITICAL,  
+    LOW,
+    MEDIUM,
+    HIGH,
+    CRITICAL
 }
-
